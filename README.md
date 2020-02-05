@@ -1,5 +1,5 @@
 # Python
-101 learning practice, business analytics salesrep
+101 learning practice
 
 # Business Analysis Case Study
 Sales report
