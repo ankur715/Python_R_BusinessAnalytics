@@ -1,6 +1,6 @@
 # Python
 101 learning practice  
-[https://github.com/ankur715/web/tree/master/hiring](Final project)
+[Final project](https://github.com/ankur715/web/tree/master/hiring)
 
 # Business Analysis Case Study
 Sales report
