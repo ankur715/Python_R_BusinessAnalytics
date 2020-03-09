@@ -12,5 +12,5 @@
 ---
 ### Publish on Rstudio Connect
 <p align="center">
-  <img width="600" height="300" src="https://github.com/ankur715/python_R_businessanalytics/blob/master/R_python/publish.JPG"> 
+  <img width="500" height="300" src="https://github.com/ankur715/python_R_businessanalytics/blob/master/R_python/publish.JPG"> 
 </p>
