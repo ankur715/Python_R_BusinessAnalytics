@@ -3,8 +3,7 @@
 [Final project](https://github.com/ankur715/web/tree/master/hiring)
 
 # Business Analysis Case Study
-Sales report
+[Sales report](https://github.com/ankur715/python_R_businessanalytics/tree/master/business_analytics)
 
 # R Python 
-reticulate  
-shiny app
+[Shiny app](https://github.com/ankur715/python_R_businessanalytics/tree/master/R_Python)
