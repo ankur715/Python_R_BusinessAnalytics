@@ -6,4 +6,4 @@
 [Sales report](https://github.com/ankur715/python_R_businessanalytics/tree/master/business_analytics)
 
 # R Python 
-[Shiny app](https://github.com/ankur715/python_R_businessanalytics/tree/master/R_Python)
+[Shiny app](https://github.com/ankur715/python_R_businessanalytics/tree/master/R_python)
