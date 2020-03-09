@@ -6,5 +6,5 @@
 Sales report
 
 # R Python 
-reticulate
+reticulate  
 shiny app
