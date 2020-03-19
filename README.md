@@ -1,6 +1,8 @@
-# Python
-101 learning practice  
-[Final project](https://github.com/ankur715/web/tree/master/hiring)
+# R Python 
+[Shiny app](https://github.com/ankur715/python_R_businessanalytics/tree/master/R_python)
+<p align="left">
+  <img width="1000" height="500" src="https://github.com/ankur715/Python_R_BusinessAnalytics/blob/master/R_python/shiny_dist.JPG"> 
+</p>
 
 ---
 # Business Analysis Case Study
@@ -10,8 +12,6 @@
 </p>
 
 ---
-# R Python 
-[Shiny app](https://github.com/ankur715/python_R_businessanalytics/tree/master/R_python)
-<p align="left">
-  <img width="1000" height="500" src="https://github.com/ankur715/Python_R_BusinessAnalytics/blob/master/R_python/shiny_dist.JPG"> 
-</p>
+# Python
+101 learning practice  
+[Final project](https://github.com/ankur715/web/tree/master/hiring)
