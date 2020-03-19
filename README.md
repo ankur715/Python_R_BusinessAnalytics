@@ -1,7 +1,7 @@
 # R Python 
 [Shiny app](https://github.com/ankur715/python_R_businessanalytics/tree/master/R_python)
 <p align="left">
-  <img width="600" height="300" src="https://github.com/ankur715/Python_R_BusinessAnalytics/blob/master/R_python/shiny_dist.JPG"> 
+  <img width="600" height="320" src="https://github.com/ankur715/Python_R_BusinessAnalytics/blob/master/R_python/shiny_dist.JPG"> 
 </p>
 
 ---
